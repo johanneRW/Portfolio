@@ -1,0 +1,108 @@
+body{
+    background-color: #1c3f44;
+    align-content: space-evenly
+}
+
+.background {
+    background-color: #1c3f44;
+    height: 55vh;
+    padding: 3vw;
+}
+
+.page {
+    display: flex;
+    height: 76vh;
+    padding: 2vw;
+    background-color: #1c3f44;
+    border: #3465a4 solid 2px;
+    flex: 2;
+}
+
+.page a {
+    display: inline-block;
+    position: relative;
+}
+
+.page a {
+    color: transparent;
+}
+
+.page a:hover {
+    color: white;
+}
+
+/*.headder{
+    margin-bottom: 10px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid lightgray;
+}
+.headder a{
+    text-decoration: none;
+    color: white;
+}
+
+.headder a:visited {
+    color: white;
+}*/
+
+.projekter-text-box {
+    left: -2vw;
+    top: 25vh;
+    padding: 10vw;
+    height: 18vh;
+    border-radius: 50%;
+    background-color: #3465a4;
+}
+
+
+
+.about-text-box {
+    left: 27vw;
+    top: -8vh;
+    padding: 10vw;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #164271;
+    border: #3465a4 solid 2px;
+
+
+}
+
+
+.cv-text-box {
+    left: -17vw;
+    top: 28vh;
+    padding: 12vw;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #3b6694;
+    border: #164271 solid 2px;
+
+
+}
+
+.foto {
+    top: -1vh;
+    left: -1vh;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+img {
+    border-radius: 50%;
+    justify-items: left;
+    border: #3465a4 solid 2px
+}
+
+
